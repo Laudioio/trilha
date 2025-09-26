@@ -1,6 +1,12 @@
 body {
 background-color: rgb(0, 0, 0);
 color: rgb(10, 187, 10);
+font-family: "Alan Sans", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
 }
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠰⢂⠂⢀⠀⠀⠀⠀⠀⠂⡄⠀⠀⠀⠀⡀⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢆⠀⠀⣀⣼⢠⢆⢀⠀⠰⠀⠐⡈⡀⡀⡄⠀⠀⠀⠄⠤⢀⠀⠂⠘⡎⠀⠀⠀⠀⠀⠀
